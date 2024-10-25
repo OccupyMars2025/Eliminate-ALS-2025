@@ -1,4 +1,4 @@
-# <p align="center"> *2024/3/28: Eliminate ALS before 2025/10/1* </p>
+# <p align="center"> *2024/3/28: I will eliminate ALS before 2025/10/1* </p>
 
 # <p align="center"> *蔡磊, 你可不能就这么死了 ! 给老子撑住 !* </p>
 
