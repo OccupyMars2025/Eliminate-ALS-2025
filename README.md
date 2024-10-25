@@ -2,6 +2,31 @@
 
 # <p align="center"> *Patients are dying* </p>
 
+# <p align="center"> *打败死神, 获得永生, 征服宇宙* </p>
+# <p align="center"> *Defeat the god of death, gain immortality, and conquer the universe* </p>
+
+
+# 1999年，蔡磊大学毕业，因为考研失利，且父亲刚过世，于是回到老家陪伴母亲，并在基层税务机关任职。2001年(23岁)，在保证本职工作的前提下，他再次参加全国研究生统一考试，以系内前三名的成绩考取中央财经大学财税学院的公费研究生，师从郝如玉教授。研究生期间，他发表多篇学术论文，并以每年多本的速度参编出版专业书籍。2003年，研究生毕业后，加入三星集团中国总部任税务经理。此后，又相继在安利（中国）、万科集团担任税务经理、集团总税务师。
+
+# <p align="center"> *打光子弹, 向死而生, 决战渐冻* </p>
+
+
+
+# <p align="center"> *[2024/3/28: 蔡磊: 争分夺秒](https://baike.baidu.com/item/%E8%94%A1%E7%A3%8A/58869483?fr=ge_ala)* </p>
+
+# <p align="center"> *2024/3/28: 很不幸, 这消息被我看到了, 那我就决不能眼睁睁看着他们在我面前死去 !* </p>
+# <p align="center"> *2024/3/28: Unfortunately, I saw this news, so I absolutely cannot stand by and watch them die in front of me !* </p>
+
+# <p align="center"> *当仁不让, 舍我其谁* </p>
+# <p align="center"> *What can you do ?* </p>
+# 2024/3/28: 蔡磊你书读得这么好, 考研成绩这么优秀, 职业生涯如此完美, 甚至连 "去死" 都要赶在我们前面, 这让我们无地自容啊 ! 给我们留点面子吧, 你可不能就这么死了 !  AlphaFold正在重塑整个生命科学,  我在 2025/10/1 之前必将消灭渐冻症, 撑住 !
+# https://github.com/google-deepmind/alphafold
+
+# [2024/3/28: Race against time, use the tremendous power of AI to accelerate scientific research, save countless terminally ill patients like Cai Lei, and snatch them back from the hands of the god of death ! This is a war with the god of death !](https://baike.baidu.com/item/%E8%94%A1%E7%A3%8A/58869483?fr=ge_ala)
+
+# [2024/3/28: Conquering ALS: My Journey to Challenge the Mission Impossible](https://www.youtube.com/watch?v=SY--gmuyGTo)
+# [2024/10/19: Cai Lei's team: The new drug has no effect on Cai Lei, and is not suitable for Cai Lei and most ALS patients](https://baijiahao.baidu.com/s?id=1813327867823802161&wfr=spider&for=pc)
+
 ---
 
 ## How to eliminate ALS ? What do I need to learn ? Recommend some textbooks or courses to help me get started.
