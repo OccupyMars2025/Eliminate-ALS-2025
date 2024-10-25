@@ -3,6 +3,7 @@
 # <p align="center"> *蔡磊, 你可不能就这么死了 ! 给老子撑住 !* </p>
 # <p align="center"> *是你吹响了攻克渐冻症的冲锋号, 战斗还没结束, 你可不能倒下 !* </p>
 # <p align="center"> *等我 2024/12/22 考完研, 就立刻开始着手攻克 ALS !* </p>
+# <p align="center"> *给我用上各种武器轰炸这个堡垒, 我就不相信轰不开 !* </p>
 # <p align="center"> *After I finish my postgraduate entrance exam on December 22, 2024, I will immediately start working on conquering ALS !* </p>
 
 # <p align="center"> *Patients are dying* </p>
