@@ -31,6 +31,10 @@
 
 ---
 
+# Don't begin by reading textbooks. Instead, start by asking ChatGPT about ALS and searching for ALS information on Google to get a general overview of this disease.
+
+---
+
 ## How to eliminate ALS ? What do I need to learn ? Recommend some textbooks or courses to help me get started.
 
 Eliminating ALS is a complex, multidisciplinary challenge involving neuroscience, molecular biology, genetics, and therapeutic sciences. Here’s a breakdown of key areas to understand and recommended resources to get started:
