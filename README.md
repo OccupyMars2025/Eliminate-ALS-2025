@@ -2,6 +2,7 @@
 
 # <p align="center"> *蔡磊, 你可不能就这么死了 ! 给老子撑住 !* </p>
 # <p align="center"> *等我 2024/12/22 考完研, 就立刻开始着手攻克 ALS !* </p>
+# <p align="center"> *After I finish my postgraduate entrance exam on December 22, 2024, I will immediately start working on conquering ALS !* </p>
 
 # <p align="center"> *Patients are dying* </p>
 
